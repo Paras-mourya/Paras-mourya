@@ -18,7 +18,7 @@
 
 
 ### 💡 About Me
-🎓 I'm a **Final Year Computer Science Student** and currently working as a **Full Stack Developer** at **[Digital Mongers](https://digitalmongers.com)**.  
+🎓 Final‑Year B.Tech (IT) Student and currently working as a **Full Stack Developer** at **[Digital Mongers](https://digitalmongers.com)**.  
 💼 Currently building a scalable **E-Commerce Platform** using **Node.js, Next.js, and MongoDB**.  
 💬 I love building end-to-end web applications and exploring clean architecture, scalable systems, and real-world project deployment.  
 ⚙️ Passionate about writing **clean code**, optimizing backend performance, and crafting user-friendly interfaces.  
