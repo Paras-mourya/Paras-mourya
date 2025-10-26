@@ -1,14 +1,16 @@
+
+<h1 align="center">Hi 👋, I'm Paras Mourya</h1>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paarasss___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paras-mourya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parasmourya288@gmail.com) 
 
 
-<!-- Your Info. -->
-<h1 align="center">Hi 👋, I'm Paras Mourya</h1>
+
+
 
 
 ### 💡 About Me
 🎓 I'm a **Final Year Computer Science Student** and currently working as a **Full Stack Developer** at **[Digital Mongers](https://digitalmongers.com)**.  
-💼 Currently building a scalable **E-Commerce Platform** using **Spring Boot, React, and MongoDB**.  
+💼 Currently building a scalable **E-Commerce Platform** using **Node.js, Next.js, and MongoDB**.  
 💬 I love building end-to-end web applications and exploring clean architecture, scalable systems, and real-world project deployment.  
 ⚙️ Passionate about writing **clean code**, optimizing backend performance, and crafting user-friendly interfaces.  
 📫 Reach me at **[parasmourya288@gmail.com](mailto:parasmourya288@gmail.com)**  
