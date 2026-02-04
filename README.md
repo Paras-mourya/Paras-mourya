@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Paras Mourya</h1>
-<p align="center">
-Backend-Focused Full Stack Developer | Node.js • Spring Boot • AWS
-</p>
 
 ---
 
