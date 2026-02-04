@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paras Mourya</h1>
 <p align="center">
-Backend-Focused Full Stack Developer | Node.js • Java • Spring Boot
+Backend-Focused Full Stack Developer | Node.js • Spring Boot • AWS
 </p>
 
 ---
@@ -13,10 +13,9 @@ Backend-Focused Full Stack Developer | Node.js • Java • Spring Boot
 ---
 
 ## 👨‍💻 Professional Summary
-Backend-oriented Full Stack Developer with hands-on experience building **scalable, production-ready web applications**.  
-Strong focus on **API design, authentication systems, database modeling, and deployment workflows**.  
-Comfortable working in **startup-paced environments** with real users and real constraints.
-
+Full Stack Developer | Backend Specialist
+Building scalable REST APIs with Node.js, NestJS & Spring Boot
+AWS deployments • Nginx • Redis • Real-time systems
 ---
 
 ## 💼 Experience
