@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Mourya</h1>
 
----
-
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Paras-mourya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Paras-mourya&theme=dark&hide_border=false)<br/>
