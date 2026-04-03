@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Paras-mourya&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Paras-mourya&theme=github-dark-red&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 </div>
 
