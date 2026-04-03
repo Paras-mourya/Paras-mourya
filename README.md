@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=header"/>
-
-<h1 align="center">Hi 👋, I'm Paras Mourya</h1>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=250&section=header&text=Hi,%20I'm%20Paras%20Mourya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Focused%20Full%20Stack%20Developer%20|%20Building%20Scalable%20Systems&descSize=18&descAlignY=55)](https://github.com/Paras-mourya)
 
 ## 📊 GitHub Stats
 
@@ -65,4 +63,4 @@ AWS deployments • Nginx • Redis • Real-time systems
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paarasss___)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parasmourya288@gmail.com)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=120&section=footer"/>
