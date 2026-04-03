@@ -3,15 +3,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Paras-mourya&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paras-mourya&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=58a6ff20" alt="Contribution Graph" />
-
+  <img src="https://streak-stats.demolab.com?user=Paras-mourya&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff" width="42%"/>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paras-mourya&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=58a6ff20" width="50%"/>
 </div>
 
 ## 👨‍💻 Professional Summary
